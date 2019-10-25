@@ -5,4 +5,4 @@
 // @grant       none
 // ==/UserScript==
 for(i=0;i<9;i++)
-document.getElementsByClassName("_unit")[i].setAttribute("style","display:none");
+document.getElementsByClassName("mal-ad-unit")[i].setAttribute("style","display:none");
